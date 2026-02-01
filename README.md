@@ -6,7 +6,7 @@ This project analyzes sales transaction data using Microsoft Excel.
 The goal is to identify revenue trends, top-performing salespersons,
 and regional performance using PivotTables and an interactive dashboard.
 
-📌 Project Workflow
+## 📌 Project Workflow
 Raw Data ➡️ Data cleaning & transformation using excel ➡️ excel Dashboard
 
 ## 🛠 Tools Used

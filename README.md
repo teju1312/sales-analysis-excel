@@ -46,9 +46,9 @@ This sheet contains the original transactional sales data.
 
 ## 📄 Page 2: Cleaned Data with Pivot Tables & Insights
 Data cleaned, transformed, and summarized using pivot tables.
-![Cleaned Data](pics/cleaned_data_with_pivot_tables_&_insights.png)
+![Cleaned Data](pics/cleaned_data_with_pivot_tables_and_insights.png)
 
 ## 📊 Page 3: Sales Dashboard
 Interactive Excel dashboard with slicers and charts.
-![Dashboard](gif/dashboard.mp4)
+![Dashboard](pics/Dashboard.mp4)
 

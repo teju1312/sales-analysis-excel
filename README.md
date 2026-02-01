@@ -50,5 +50,5 @@ Data cleaned, transformed, and summarized using pivot tables.
 
 ## 📊 Page 3: Sales Dashboard
 Interactive Excel dashboard with slicers and charts.
-![Dashboard](gif/Dashboard.gif)
+![Dashboard](gif/Dashboard-ezgif.com-crop.gif)
 

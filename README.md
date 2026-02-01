@@ -40,9 +40,15 @@ Format: Raw CSV file cleaned and loaded within excel.
 - April shows peak monthly sales
 - High units sold do not always mean high revenue
 
-## 📄 page 1: Raw Data
-Raw Data Description
-
-This sheet contains the original transactional sales data collected for analysis.
-It represents individual sales transactions without any transformations or calculations.
+## 📄 Page 1: Raw Data
+This sheet contains the original transactional sales data.
 ![Raw Data](pics/raw_data.png)
+
+## 📄 Page 2: Cleaned Data with Pivot Tables & Insights
+Data cleaned, transformed, and summarized using pivot tables.
+![Cleaned Data](pics/cleaned_data.png)
+
+## 📊 Page 3: Sales Dashboard
+Interactive Excel dashboard with slicers and charts.
+![Dashboard](gif/dashboard.gif)
+

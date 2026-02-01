@@ -12,6 +12,13 @@ Raw Data ➡️ Data cleaning & transformation using excel ➡️ excel Dashboar
 ## 🛠 Tools Used
 - Microsoft Excel (Power Query, PivotTables, Slicers)
 
+## 📊 Dataset Information
+Columns: Transaction ID,order date,product,category,sales person,region,revenue etc.
+
+Source: some random AI source (csv format)
+
+Format: Raw CSV file cleaned and loaded within excel.
+
 ## 📈 Key Insights
 - Ali is the top revenue-generating salesperson
 - South region contributes the highest revenue

@@ -6,10 +6,11 @@ This project analyzes sales transaction data using Microsoft Excel.
 The goal is to identify revenue trends, top-performing salespersons,
 and regional performance using PivotTables and an interactive dashboard.
 
+📌 Project Workflow
+Raw Data ➡️ Data cleaning & transformation using excel ➡️ excel Dashboard
+
 ## 🛠 Tools Used
 - Microsoft Excel (Power Query, PivotTables, Slicers)
-- Data Cleaning & Transformation
-- Dashboard Design
 
 ## 📈 Key Insights
 - Ali is the top revenue-generating salesperson
